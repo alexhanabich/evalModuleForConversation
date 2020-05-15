@@ -1,5 +1,5 @@
 """
-# Evaluation model for Conversational AI
+# Evaluation module for Conversational AI
 # Lower score is better. maybe from 0 to 10?
 # input for all functions: list of utternces
 # output for all functions: numerical score
